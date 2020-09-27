@@ -1,0 +1,1 @@
+./vendor/bin/phpunit tests/OrmModelTest.php --bootstrap=tests/bootstrap.php
